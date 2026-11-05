@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chess Assistant</string>
+    <string name="accessibility_desc">Hỗ trợ nhận diện bàn cờ tự động không tốn tài nguyên CPU.</string>
+</resources>
